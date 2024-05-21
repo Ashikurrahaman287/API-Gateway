@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/users": {
+      "method": "GET",
+      "handler": "UsersHandler"
+    },
+    "/products": {
+      "method": "GET",
+      "handler": "ProductsHandler"
+    }
+  }
+}

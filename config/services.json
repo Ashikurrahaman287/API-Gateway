@@ -1,0 +1,10 @@
+{
+  "services": {
+    "users": {
+      "url": "http://users-service:8000" // Example URL of the users service
+    },
+    "products": {
+      "url": "http://products-service:8000" // Example URL of the products service
+    }
+  }
+}
