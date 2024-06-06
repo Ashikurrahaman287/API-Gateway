@@ -56,6 +56,4 @@ api_gateway/
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
